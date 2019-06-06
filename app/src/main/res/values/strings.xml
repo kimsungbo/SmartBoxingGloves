@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Database Example</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="weight_unit">Kg</string>
+    <string name="height_unit">cm</string>
+    <string name="height">Height:</string>
+    <string name="weight">Weight:</string>
+    <string name="non_tranditional">Non-Tranditional (Left-handed)</string>
+    <string name="traditional">Traditional (Right-handed)</string>
+    <string name="stance">Stance:</string>
+    <string name="arm_length">Arm Length:</string>
+    <string name="facebook_app_id">API Key</string>
+    <string name="fb_login_protocol_scheme">API Key</string>
+    <string name="logout">Logout</string>
+
+    <string name="menu1">Training mode</string>
+    <string name="menu2">Target Mode</string>
+    <string name="menu3">History</string>
+
+    <string name="score">0</string>
+    <string name="straight">STRAIGHT</string>
+    <string name="jab">JAB</string>
+    <string name="hook">HOOK</string>
+    <string name="uppercut">UPPERCUT</string>
+    <string name="punch_speed">Punch Speed:</string>
+    <string name="punch_force"> Punch Force:</string>
+    <string name="speed_unit"> m/s</string>
+    <string name="force_unit"> kgf</string>
+    <string name="speed">0</string>
+    <string name="force">0</string>
+    <string name="end">END</string>
+    <string name="start">START</string>
+    <string name="none_paired">No devices paired yet.</string>
+    <string name="down_arrow_desc">Down Arrow</string>
+    <string name="up_arrow_desc">Up Arrow</string>
+    <string name="left_connect">Connect Left Glove</string>
+    <string name="right_connect">Connect Right Glove</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="female">Female</string>
+    <string name="male">male</string>
+    <string name="sex">Sex:</string>
+
+
+</resources>

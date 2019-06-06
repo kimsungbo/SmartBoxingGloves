@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#d81b60</color>
+
+    <color name="straight">#B5B360</color>
+    <color name="jab">#566B76</color>
+    <color name="hook">#B5696E</color>
+    <color name="uppercut">#696842</color>
+
+    <color name="grey">#90b4b1b1</color>
+
+    <color name="text">#000000</color>
+    <color name="background">#eeeeee</color>
+    <color name="black">#000000</color>
+
+    <color name="pin_picker_text_color">@android:color/white</color>
+    <color name="pin_number_picker_focused_background">@android:color/black</color>
+    <color name="pin_picker_arrow_color">@android:color/white</color>
+</resources>
